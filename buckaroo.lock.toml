@@ -1,4 +1,4 @@
-manifest = "d8ff67b4b0b141aa3ffab8f808794f824c08511e28381486957b4fdd771bf063"
+manifest = "cafbd71363716348db44fd86189219446469c8c0db36491c8f1536735e3c88bd"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-array"
@@ -202,4 +202,4 @@ revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
-revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+revision = "7dfc9d72ec1fd0a47d0ef4f8e7756c797ad26f53"
